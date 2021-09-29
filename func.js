@@ -1,6 +1,6 @@
 function double (num)
 {
-reutrn x*3;
+reutrn x*2;
 }
 
 var x=2;
